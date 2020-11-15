@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="sv"> <![endif]-->
+<!--[if IE 7]>    <html class="ie lt-ie10 lt-ie9 lt-ie8" lang="sv"> <![endif]-->
+<!--[if IE 8]>    <html class="ie lt-ie10 lt-ie9" lang="sv"> <![endif]-->
+<!--[if IE 9]>    <html class="ie lt-ie10" lang="sv"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="" lang="sv"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Prenumeration | Jönköpings-Posten</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Jönköpings-Posten | Prenumeration | Prenumeration, adressändring, uppehåll och reklamation">
+  <meta name="author" content="Jan Fång | Hallpressen AB">
+
+  <!-- Le styles -->
+  <link href="/assets/css/style.css" rel="stylesheet">
+  
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Google font -->
+  <link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css'>
+  
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-23872740-19', 'jonkopingsposten.se');
+  ga('send', 'pageview');
+</script>
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body>
+ <div id="page" class="container">
+  <div class="row">
+    <div class="span7">
+      <a href="/"><img src="/assets/logo/jp.png" alt="Jönköpings-Posten" class="logo" /></a>
+    </div>
+    
+          <div class="span5 hidden-phone">
+        <h1 class="top">Prenumeration</h1>
+      </div>
+      </div>
+  <div class="navbar navbar-inverse">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <!-- Be sure to leave the brand out there if you want it shown -->
+        <a class="brand hidden-desktop" href="/">Prenumeration</a>
+        <div class="nav-collapse">
+          <ul class="nav">
+      <li class="index active"><a  href="/">Startsida</a></li>
+    </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+  </div>
+
+
+    <!-- ###### Ej inloggad -->
+  <div class="row">
+    <div class="span4">
+              
+<section class="login">
+    
+  <h2>Min prenumeration</h2>
+  <p class="hidden-phone">Logga in för att hantera din prenumeration, adressändra, beställa uppehåll m.m.</p>
+  <form action="/login/" id="formPren" method="post">
+    <input type="hidden" name="login_type" value="subscription_number" />
+    <div class="control-group">
+      <label class="control-label" for="subscription_number"><strong>Ange ditt abonnentnummer</strong></label>
+      <div class="controls">
+        <input type="text" id="subscription_number" placeholder="Abonnentnummer" name="subscription_number">
+      </div>
+    </div>
+        <div class="control-group">
+        <label class="control-label" for="paper_id"><strong>Klicka i rutan nedan och därefter på <i>Logga in</i></strong></label>
+
+      <div class="g-recaptcha"  data-sitekey="6LdB-wgTAAAAAKWG244aKUybqXYHCuc6fRrQnZal"></div>
+    </div>
+    
+    <div class="control-group">
+      <div class="controls clearfix">
+        <button type="submit" class="right btn btn-primary btn-small">Logga in</button>
+      </div>
+    </div>
+
+      <div class="control-group">
+          <a href="/abonnentnummer/" class="label">Glömt ditt abonnentnummer?</a>
+      </div>
+  </form>
+</section>            
+      
+<section class="login">
+    <h2>Reklamation</h2>
+  <p class="hidden-phone">Har du inte fått tidningen? Logga in för att reklamera din tidning. Du loggar in med ditt telefonnummer.</p>
+  <form action="/login/" id="formRekl" method="post">
+    <input type="hidden" name="login_type" value="phone_home" />
+    <div class="control-group">
+      <label class="control-label" for="phone_home"><strong>Ange ditt telefonnummer</strong></label>
+      <div class="controls">
+        <input type="text" id="phone_home" placeholder="Telefonnummer" name="phone_home">
+      </div>
+    </div>
+    
+        
+    <div class="control-group">
+      <div class="controls clearfix">
+        <button type="submit" class="right btn btn-primary btn-small">Logga in</button>
+      </div>
+    </div>
+  </form>
+</section>    </div>
+    <div class="span5">
+                      <h2>Ge bort en prenumeration</h2><span>Vill du ge bort en prenumeration som gåva? Du kan välja mellan total-, helg- eller digitalpaketet.&nbsp;Kontakta oss så hjälper vi dig.<br><b><br>Kundcenter@hallmedia.se</b>&nbsp;eller&nbsp;<b>036 30 40 40</b><br></span>          </div>
+    <div class="span3">
+      <section class="contact infobox visible-desktop">
+  <h2>Kontakta Prenumeration</h2>
+  <p class="cicon cicon-clock">
+    <i></i><strong>Öppettider</strong><br />
+      Vardagar: 6 - 17<br>
+      Lördagar: 7 - 11
+  </p>
+  <p class="cicon cicon-phone">
+    <i></i><strong>Telefon</strong><br />
+    036 - 30 40 40
+  </p>
+  <p class="cicon cicon-email">
+    <i></i><strong>E-post</strong><br />
+    <a href="/kontakt/">Skicka in via kontaktformuläret</a>.
+  </p>
+</section>    </div>
+  </div>
+
+
+ </div> <!-- /container -->
+
+ <div id="logout-modal" role="dialog" class="modal hide fade">
+   <div class="modal-header">
+     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+     <h3>Logga ut</h3>
+   </div>
+   <div class="modal-body">
+     <p>Vill du verkligen logga ut?</p>
+   </div>
+   <div class="modal-footer">
+     <a href="#" data-dismiss="modal" class="btn">Avbryt</a>
+     <a href="/logout.php" class="btn btn-primary">Logga ut</a>
+   </div>
+ </div>
+
+   <!-- Le javascript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="/assets/js/jquery-1.9.1.min.js"></script>
+  <script src="/assets/js/jquery-migrate-1.1.1.min.js"></script>
+  <script src="/assets/js/jquery.validate.min.js"></script>
+  <script src="/assets/js/jquery.placeholder.min.js"></script>
+  <script src="/assets/js/bootstrap/bootstrap.min.js"></script>
+  <script src="/assets/js/bootstrap-wysihtml5.js"></script>
+  <script src="/assets/js/bootstrap-combobox.js"></script>
+  <script src="/assets/js/bootstrap-datepicker.js"></script>
+  <script src="/assets/js/locales/bootstrap-datepicker.sv.js"></script>
+  <script src="/assets/js/hallpressen.js"></script>
+  <script src="/assets/js/scripts.js"></script>
+
+    <!-- ImBox -->
+  <script type="text/javascript">
+   var _sid = '777';
+   (function () {
+   var se = document.createElement('script');
+   se.type = 'text/javascript';
+   se.async = true;
+   se.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.imbox.se/cd1/initWidget.js';
+   var s = document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(se, s);
+   })();
+  </script>
+  <!-- //ImBox Script -->
+
+</body>
+</html>
+

@@ -1,0 +1,527 @@
+
+<!doctype html>
+<html lang="sv">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+    <link rel="stylesheet" href="https://www.emballatormetalgroup.se/wp-content/themes/emballator/assets/style.min.css?v=20180612">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/emballator/assets/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/wp-content/themes/emballator/assets/img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/wp-content/themes/emballator/assets/img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/wp-content/themes/emballator/assets/img/favicons/manifest.json">
+    <link rel="mask-icon" href="/wp-content/themes/emballator/assets/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/wp-content/themes/emballator/assets/img/favicons/favicon.ico">
+    <meta name="msapplication-config" content="/wp-content/themes/emballator/assets/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-19436673-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    
+	<!-- This site is optimized with the Yoast SEO plugin v15.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Emballator Metal Group</title>
+	<meta name="description" content="Emballator Metal Group erbjuder ett brett sortiment av förpackningslösningar i bleckplåt. Hos oss hittar du allt från färgburken till kakburken." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.emballatormetalgroup.se/" />
+	<meta property="og:locale" content="sv_SE" />
+	<meta property="og:locale:alternate" content="de_DE" />
+	<meta property="og:locale:alternate" content="en_GB" />
+	<meta property="og:locale:alternate" content="fi_FI" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Emballator Metal Group" />
+	<meta property="og:description" content="Emballator Metal Group erbjuder ett brett sortiment av förpackningslösningar i bleckplåt. Hos oss hittar du allt från färgburken till kakburken." />
+	<meta property="og:url" content="https://www.emballatormetalgroup.se/" />
+	<meta property="og:site_name" content="Emballator Metal Group" />
+	<meta property="article:modified_time" content="2019-04-02T13:55:38+00:00" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" value="Skriven av">
+	<meta name="twitter:data1" value="cmadmin">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.emballatormetalgroup.se/en/#website","url":"https://www.emballatormetalgroup.se/en/","name":"Emballator Metal Group","description":"Emballator Metal Group","potentialAction":[{"@type":"SearchAction","target":"https://www.emballatormetalgroup.se/en/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"sv-SE"},{"@type":"WebPage","@id":"https://www.emballatormetalgroup.se/#webpage","url":"https://www.emballatormetalgroup.se/","name":"Emballator Metal Group","isPartOf":{"@id":"https://www.emballatormetalgroup.se/en/#website"},"datePublished":"2016-12-20T08:15:52+00:00","dateModified":"2019-04-02T13:55:38+00:00","description":"Emballator Metal Group erbjuder ett brett sortiment av f\u00f6rpackningsl\u00f6sningar i bleckpl\u00e5t. Hos oss hittar du allt fr\u00e5n f\u00e4rgburken till kakburken.","inLanguage":"sv-SE","potentialAction":[{"@type":"ReadAction","target":["https://www.emballatormetalgroup.se/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.emballatormetalgroup.se\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.emballatormetalgroup.se/wp-includes/css/dist/block-library/style.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.emballatormetalgroup.se/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.emballatormetalgroup.se/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://www.emballatormetalgroup.se/wp-json/" /><link rel="alternate" type="application/json" href="https://www.emballatormetalgroup.se/wp-json/wp/v2/pages/11" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.emballatormetalgroup.se/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.emballatormetalgroup.se/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.2" />
+<link rel='shortlink' href='https://www.emballatormetalgroup.se/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.emballatormetalgroup.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.emballatormetalgroup.se%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.emballatormetalgroup.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.emballatormetalgroup.se%2F&#038;format=xml" />
+<link rel="alternate" href="https://www.emballatormetalgroup.se/" hreflang="sv" />
+<link rel="alternate" href="https://www.emballatormetalgroup.se/de/" hreflang="de" />
+<link rel="alternate" href="https://www.emballatormetalgroup.se/en/" hreflang="en" />
+<link rel="alternate" href="https://www.emballatormetalgroup.se/fi/" hreflang="fi" />
+</head>
+
+<body class="home page-template page-template-page-templates page-template-front page-template-page-templatesfront-php page page-id-11">
+    <div class="nav-mobile">
+        <div class="nav-mobile__search">
+            <form action="/sok" method="get" id="js-mobile-search-form">
+                <input name="s" type="text" placeholder="Sök...">
+                <a href="#" onclick="document.getElementById('js-mobile-search-form').submit();"></a>
+            </form>
+        </div>
+        <nav class="nav-mobile__nav" role="navigation">
+            <ul>
+                <li class="page_item page-item-11 current_page_item"><a href="https://www.emballatormetalgroup.se/" aria-current="page">Hem</a></li>
+<li class="page_item page-item-113 page_item_has_children"><a href="https://www.emballatormetalgroup.se/vara-produkter/">Produkter</a>
+<ul class='children'>
+	<li class="page_item page-item-157"><a href="https://www.emballatormetalgroup.se/vara-produkter/industri/">Industri</a></li>
+	<li class="page_item page-item-218"><a href="https://www.emballatormetalgroup.se/vara-produkter/konsument/">Konsument</a></li>
+	<li class="page_item page-item-220"><a href="https://www.emballatormetalgroup.se/vara-produkter/un/">UN</a></li>
+	<li class="page_item page-item-222"><a href="https://www.emballatormetalgroup.se/vara-produkter/fancy/">Fancy</a></li>
+	<li class="page_item page-item-1403"><a href="https://www.emballatormetalgroup.se/vara-produkter/tillbehor/">Tillbehör</a></li>
+</ul>
+</li>
+<li class="page_item page-item-115 page_item_has_children"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/">Vårt erbjudande</a>
+<ul class='children'>
+	<li class="page_item page-item-118"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/tjanster/">Tjänster</a></li>
+	<li class="page_item page-item-122"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/support/">Support</a></li>
+	<li class="page_item page-item-124"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/124-2/">Produktutveckling</a></li>
+	<li class="page_item page-item-129 page_item_has_children"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/miljo/">Miljö</a>
+	<ul class='children'>
+		<li class="page_item page-item-133"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/miljo/metal-recycles-forever/">Metal Recycles Forever</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-225"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/tryck/">Tryck</a></li>
+	<li class="page_item page-item-135"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/kvalitet/">Kvalitet</a></li>
+	<li class="page_item page-item-1970"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/villkor/">Villkor</a></li>
+</ul>
+</li>
+<li class="page_item page-item-143 page_item_has_children"><a href="https://www.emballatormetalgroup.se/om-oss/">Om oss</a>
+<ul class='children'>
+	<li class="page_item page-item-145"><a href="https://www.emballatormetalgroup.se/om-oss/emballator/">Emballator</a></li>
+	<li class="page_item page-item-147"><a href="https://www.emballatormetalgroup.se/om-oss/karriar/">Karriär</a></li>
+	<li class="page_item page-item-154"><a href="https://www.emballatormetalgroup.se/om-oss/kundcase-nyakers/">Kundcase &#8211; Nyåkers</a></li>
+	<li class="page_item page-item-3277"><a href="https://www.emballatormetalgroup.se/om-oss/sponsringspolicy/">Sponsringspolicy</a></li>
+</ul>
+</li>
+<li class="page_item page-item-639"><a href="https://www.emballatormetalgroup.se/nyheter/">Nyheter</a></li>
+<li class="page_item page-item-150 page_item_has_children"><a href="https://www.emballatormetalgroup.se/kontakt/">Kontakt</a>
+<ul class='children'>
+	<li class="page_item page-item-152 page_item_has_children"><a href="https://www.emballatormetalgroup.se/kontakt/personal/">Sverige</a>
+	<ul class='children'>
+		<li class="page_item page-item-2254"><a href="https://www.emballatormetalgroup.se/kontakt/personal/ledning/">Ledning</a></li>
+		<li class="page_item page-item-2256"><a href="https://www.emballatormetalgroup.se/kontakt/personal/order/">Supply Chain / Order</a></li>
+		<li class="page_item page-item-2258"><a href="https://www.emballatormetalgroup.se/kontakt/personal/forsaljning/">Marknad / Försäljning</a></li>
+		<li class="page_item page-item-2264"><a href="https://www.emballatormetalgroup.se/kontakt/personal/prepress/">Prepress</a></li>
+		<li class="page_item page-item-2266"><a href="https://www.emballatormetalgroup.se/kontakt/personal/analys-utveckling/">Teknik / Produktutveckling</a></li>
+		<li class="page_item page-item-2268"><a href="https://www.emballatormetalgroup.se/kontakt/personal/hr/">HR</a></li>
+		<li class="page_item page-item-4150"><a href="https://www.emballatormetalgroup.se/kontakt/personal/inkop/">Inköp</a></li>
+		<li class="page_item page-item-4635"><a href="https://www.emballatormetalgroup.se/kontakt/personal/qsa/">QSE</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-4020 page_item_has_children"><a href="https://www.emballatormetalgroup.se/kontakt/finland/">Finland</a>
+	<ul class='children'>
+		<li class="page_item page-item-4024"><a href="https://www.emballatormetalgroup.se/kontakt/finland/ledning/">Ledning</a></li>
+		<li class="page_item page-item-4026"><a href="https://www.emballatormetalgroup.se/kontakt/finland/order/">Order</a></li>
+		<li class="page_item page-item-4029"><a href="https://www.emballatormetalgroup.se/kontakt/finland/forsaljning/">Försäljning</a></li>
+		<li class="page_item page-item-4031"><a href="https://www.emballatormetalgroup.se/kontakt/finland/teknisk-support/">Teknisk support</a></li>
+		<li class="page_item page-item-4033"><a href="https://www.emballatormetalgroup.se/kontakt/finland/analys-utveckling/">Analys &#038; utveckling</a></li>
+		<li class="page_item page-item-4035"><a href="https://www.emballatormetalgroup.se/kontakt/finland/inkop/">Inköp</a></li>
+		<li class="page_item page-item-4037"><a href="https://www.emballatormetalgroup.se/kontakt/finland/produktion/">Produktion</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-4039"><a href="https://www.emballatormetalgroup.se/kontakt/danmark/">Danmark</a></li>
+	<li class="page_item page-item-4047"><a href="https://www.emballatormetalgroup.se/kontakt/norge/">Norge</a></li>
+	<li class="page_item page-item-4629"><a href="https://www.emballatormetalgroup.se/kontakt/ryssland/">Ryssland</a></li>
+	<li class="page_item page-item-4044"><a href="https://www.emballatormetalgroup.se/kontakt/polen/">Polen</a></li>
+</ul>
+</li>
+            </ul>
+        </nav>
+    </div>
+    <div class="nav-mobile-blocker  nav-mobile-move"></div>
+
+    <header class="site-header  nav-mobile-move  site-header--hideable  site-header--hidden">
+        <div class="container">
+            <div class="site-logo">
+                <a href="https://www.emballatormetalgroup.se/">
+                    <img src="https://www.emballatormetalgroup.se/wp-content/themes/emballator/assets/img/companies/metalgroup/site-logo.png" alt="Emballator Metal Group">
+                </a>
+            </div>
+            <nav class="nav-primary" role="navigation">
+                <ul>
+                    <li class="page_item page-item-11 current_page_item"><a href="https://www.emballatormetalgroup.se/" aria-current="page">Hem</a></li>
+<li class="page_item page-item-113 page_item_has_children"><a href="https://www.emballatormetalgroup.se/vara-produkter/">Produkter</a></li>
+<li class="page_item page-item-115 page_item_has_children"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/">Vårt erbjudande</a></li>
+<li class="page_item page-item-143 page_item_has_children"><a href="https://www.emballatormetalgroup.se/om-oss/">Om oss</a></li>
+<li class="page_item page-item-639"><a href="https://www.emballatormetalgroup.se/nyheter/">Nyheter</a></li>
+<li class="page_item page-item-150 page_item_has_children"><a href="https://www.emballatormetalgroup.se/kontakt/">Kontakt</a></li>
+                </ul>
+            </nav>
+            <button class="nav-mobile-toggle" type="button">
+                <span class="nav-mobile-toggle__bar"></span>
+                <span class="nav-mobile-toggle__bar"></span>
+                <span class="nav-mobile-toggle__bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <div class="site-wrapper  nav-mobile-move">
+<div class="cover-slideshow">
+    <div class="cover-slideshow__slides">
+        <ul class="rslides">
+                            <li style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/metalgroup-bildspelet1.jpg');"></li>
+                            <li style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/metalgroup-bildspel-2.jpg');"></li>
+                            <li style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/metalgroup-bildspel-3-1.jpg');"></li>
+                    </ul>
+        <div class="cover-slideshow__logo">
+            <img src="https://www.emballatormetalgroup.se/wp-content/themes/emballator/assets/img/companies/metalgroup/site-logo.png" alt="Emballator">
+        </div>
+        <div class="cover-slideshow__content">
+                            <h2>Förpackningar som gör livet enklare</h2>
+                        <p><!--Emballator Metal Group har ett brett sortiment av förpackningslösningar i bleckplåt. Olika behov och kunder kräver olika lösningar. Vi har allt från standardförpackningar till unika förpackningslösningar.--></p>
+            <a href="https://www.emballatormetalgroup.se/vart-erbjudande/" class="btn">Läs mer</a>
+        </div>
+    </div>
+    <div class="cover-slideshow__nav  nav-sidebar">
+        <div class="nav-sidebar__lang">
+            <ul>
+                
+                <li>
+                    <a href="https://www.emballatormetalgroup.se/">
+                        <img src="https://www.emballatormetalgroup.se/wp-content/polylang/sv_SE.png" alt="Svenska">
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.emballatormetalgroup.se/en/">
+                        <img src="https://www.emballatormetalgroup.se/wp-content/polylang/en_GB.png" alt="English">
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.emballatormetalgroup.se/de/">
+                        <img src="https://www.emballatormetalgroup.se/wp-content/polylang/de_DE.png" alt="Deutsch">
+                    </a>
+                </li>
+                        </ul>
+        </div>
+        <div class="nav-sidebar__search">
+            <form action="https://www.emballatormetalgroup.se/" method="get" id="js-search-form">
+                                <input name="s" type="text" placeholder="Sök..." value="">
+                <a href="#" onclick="document.getElementById('js-search-form').submit();"></a>
+            </form>
+        </div>
+        <nav class="nav-sidebar__nav" role="navigation">
+            <ul>
+                <li class="page_item page-item-11 current_page_item"><a href="https://www.emballatormetalgroup.se/" aria-current="page">Hem</a></li>
+<li class="page_item page-item-113 page_item_has_children"><a href="https://www.emballatormetalgroup.se/vara-produkter/">Produkter</a></li>
+<li class="page_item page-item-115 page_item_has_children"><a href="https://www.emballatormetalgroup.se/vart-erbjudande/">Vårt erbjudande</a></li>
+<li class="page_item page-item-143 page_item_has_children"><a href="https://www.emballatormetalgroup.se/om-oss/">Om oss</a></li>
+<li class="page_item page-item-639"><a href="https://www.emballatormetalgroup.se/nyheter/">Nyheter</a></li>
+<li class="page_item page-item-150 page_item_has_children"><a href="https://www.emballatormetalgroup.se/kontakt/">Kontakt</a></li>
+            </ul>
+        </nav>
+        <div class="nav-sidebar__social">
+            <ul>
+                                    <li>
+                        <a href="https://www.linkedin.com/company/emballator-metal-group/" target="_blank">
+                            <img src="https://www.emballatormetalgroup.se/wp-content/themes/emballator/assets/img/social-icon-in--dark.png">
+                        </a>
+                    </li>
+                                                            </ul>
+        </div>
+        <span id="js-waypoint-trigger"></span>
+    </div>
+</div>
+
+<div class="news-bar">
+    <div class="container">
+        <div class="news-bar__items  ">
+                                        
+                <div class="news-bar__item">
+                                            <h4><a href="https://www.emballatormetalgroup.se/2020/11/05/sortimentsrationalisering-for-en-battre-och-mer-hallbar-framtid/">Sortimentsrationalisering, För en bättre och mer hållbar framtid</a></h4>
+                                        <p>2020-11-05</p>
+                </div>
+                            
+                <div class="news-bar__item">
+                                            <h4><a href="https://www.emballatormetalgroup.se/2020/06/30/oppettider-under-semestern/">Öppettider under semestern</a></h4>
+                                        <p>2020-06-30</p>
+                </div>
+                            
+                <div class="news-bar__item">
+                                            <h4><a href="https://www.emballatormetalgroup.se/2020/04/07/covid-19-update/">Covid-19 Update</a></h4>
+                                        <p>2020-04-07</p>
+                </div>
+                            
+                <div class="news-bar__item">
+                                            <h4><a href="https://www.emballatormetalgroup.se/2020/04/07/automatisering-gor-succe-pa-emballator-metal-group/">Automatisering gör succé</a></h4>
+                                        <p>2020-04-07</p>
+                </div>
+                    </div>
+    </div>
+    <div class="news-bar__link">
+                    <a href="https://www.emballatormetalgroup.se/nyheter/">Visa alla nyheter »</a>
+            </div>
+</div>
+
+    <main class="site-main  site-main--front">
+        <div class="container">
+            <div class="site-main__content">
+                <h1>Välkommen till Metal Group</h1>
+<p>Emballator Metal Group erbjuder ett brett sortiment av förpackningslösningar i bleckplåt. Hos oss hittar du allt från färgburken till kakburken.</p>
+<p>Bleckplåten är ett hållbart och hygieniskt materialval samt 100 procent återvinningsbara. Våra metallförpackningar klarar högt ställda säkerhetskrav och erbjuder både spektakulära och säljande designmöjligheter.</p>
+<p>Emballator Metal Group är en del av Emballator-gruppen. Den består av ett flertal företag med den gemensamma ambitionen att ta fram förpackningslösningar som gör livet enklare.</p>
+<a class="btn" href="/om-oss/">Mer om oss</a>
+            </div>
+        </div>
+
+        <div class="image-row">
+                            <div class="image-row__image" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/metalgruop-imagerow-1.jpg');'"></div>
+                            <div class="image-row__image" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2018/04/Emballator-Metalpak-Oy-Food.jpg');'"></div>
+                            <div class="image-row__image" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/metalgruop-imagerow-3-1.jpg');'"></div>
+                            <div class="image-row__image" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/ulricehamn13.jpg');'"></div>
+                            <div class="image-row__image" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/metalgruop-imagerow-5.jpg');'"></div>
+                    </div>
+    </main>
+
+<div class="front-areas">
+    <div class="front-areas__left">
+        <div class="container">
+            <h2>Våra segment</h2>
+            <p>Alla har alla olika krav och önskemål på sina förpackningar. På Emballator Metal Group utvecklar och tillverkar vi plåtemballage till allt från färg- och kemiindustrin till livsmedel. Vi har även ett stort sortiment av UN-godkända produkter.</p>
+<p>Läs mer under respektive affärsområde.</p>
+<a class="btn" href="/vart-erbjudande/">Läs mer</a>
+        </div>
+    </div>
+    <div class="front-areas__right">
+        <div class="area-panels">
+                            <div class="area-panel" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/industri-bakgrund.jpg');">
+                    <div class="area-panel__info">
+                        <h4><a href="http://www.emballatormetalgroup.se/vara-produkter/industri/">Industri</a></h4>
+                                                    <p>Vi har ett brett sortiment av plåtemballage för industriellt användande, gällande design, funktion och storlek på burk och lock. 
+
+</p>
+                                                <a href="http://www.emballatormetalgroup.se/vara-produkter/industri/" >
+                            Läs mer »                        </a>
+                    </div>
+                </div>
+                            <div class="area-panel" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/Konsument-Emballator.jpg');">
+                    <div class="area-panel__info">
+                        <h4><a href="http://www.emballatormetalgroup.se/vara-produkter/konsument/">Konsument</a></h4>
+                                                    <p>Metal Group har ett stort utbud av plåtemballage, gällande både design, funktion och storlek på burkar och lock. </p>
+                                                <a href="http://www.emballatormetalgroup.se/vara-produkter/konsument/" >
+                            Läs mer »                        </a>
+                    </div>
+                </div>
+                            <div class="area-panel" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/UN-bakgrund.jpg');">
+                    <div class="area-panel__info">
+                        <h4><a href="http://www.emballatormetalgroup.se/vara-produkter/un/">UN</a></h4>
+                                                    <p>Hos oss hittar du UN-certifierat plåtemballage. Med UN-godkända förpackningar kan du känna dig trygg vid såväl stickprovskontroller som olyckor. </p>
+                                                <a href="http://www.emballatormetalgroup.se/vara-produkter/un/" >
+                            Läs mer om vårt UN-sortiment »                        </a>
+                    </div>
+                </div>
+                            <div class="area-panel" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/Fancy-bakgrund.jpg');">
+                    <div class="area-panel__info">
+                        <h4><a href="http://www.emballatormetalgroup.se/vara-produkter/fancy/">Fancy</a></h4>
+                                                    <p>Konfektyrburkar, teburkar, kaffeburkar eller kakburkar i plåt. I vårt Fancy-sortiment hittar du plåtburkar med snygg design som skyddar innehållet. </p>
+                                                <a href="http://www.emballatormetalgroup.se/vara-produkter/fancy/" >
+                            Läs mer om vårt Fancy-sortiment »                        </a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+
+<div class="image-banner  image-banner--quote" style="background-image: url('https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/banner-background.jpg');">
+    <div class="image-banner__overlay"></div>
+    <div class="container">
+        <div class="image-banner__content">
+            <h6>”Plåtburkarna har en bra kvalitet <br />
+och kan ta stryk. De håller en livs-<br />
+tid.”<br />
+</h6>
+            <p>- Christoffer Öhberg, Nyåkers</p>
+            <a href="https://www.emballatormetalgroup.se/om-oss/kundcase-nyakers/" class="btn">Mer om kundcase</a>
+        </div>
+    </div>
+</div>
+
+<div class="timeline">
+    <h2>Nedslag i Emballator Metal Groups historia</h2>
+    <div class="timeline__image">
+        <img src="https://www.emballatormetalgroup.se/wp-content/uploads/2016/12/timeline-sv-1.png" class="zoom-enabled">
+    </div>
+    <a href="https://www.emballatormetalgroup.se/om-oss/" class="btn">Mer om oss</a>
+</div>
+
+        <footer class="site-footer">
+            <div class="site-footer__top">
+                <div class="container">
+                    <div class="site-footer__about">
+                                                    <img src="https://www.emballatormetalgroup.se/wp-content/themes/emballator/assets/img/emballator-logo-white.png" alt="Emballator">
+                                                <p>Emballator Metal Group är en del av Emballator-gruppen. Den består av ett flertal företag med den gemensamma ambitionen att ta fram förpackningslösningar som gör livet enklare.</p>
+<p><strong>Läs mer om Emballator-gruppen på: <a href="http://www.emballator.se/" target="_blank" rel="noopener">www.emballator.se</a></strong></p>
+                        <div class="site-footer__lang-switcher">
+                            <p><strong>Byt språk:</strong></p>
+                            <ul>
+                                
+                <li>
+                    <a href="https://www.emballatormetalgroup.se/">
+                        <img src="https://www.emballatormetalgroup.se/wp-content/polylang/sv_SE.png" alt="Svenska">
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.emballatormetalgroup.se/en/">
+                        <img src="https://www.emballatormetalgroup.se/wp-content/polylang/en_GB.png" alt="English">
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.emballatormetalgroup.se/de/">
+                        <img src="https://www.emballatormetalgroup.se/wp-content/polylang/de_DE.png" alt="Deutsch">
+                    </a>
+                </li>
+                                        </ul>
+                        </div>
+                    </div>
+                    <div class="site-footer__cols">
+                                                    <div class="site-footer__col">
+                                <h6><a href="http://www.emballatormetalgroup.se/">Hem</a></h6>
+<h6><a href="http://www.emballatormetalgroup.se/nyheter/">Nyheter</a></h6>
+<h6></h6>
+                            </div>
+                                                    <div class="site-footer__col">
+                                <h6><a href="http://www.emballatormetalgroup.se/vara-produkter/">Produkter</a></h6>
+<ul>
+<li><a href="http://www.emballatormetalgroup.se/produkter-2/industri/">Industri</a></li>
+<li><a href="http://www.emballatormetalgroup.se/produkter-2/konsument/">Konsument</a></li>
+<li><a href="http://www.emballatormetalgroup.se/produkter-2/un/">UN</a></li>
+<li><a href="http://www.emballatormetalgroup.se/vara-produkter/fancy/">Fancy</a></li>
+<li><a href="http://www.emballatormetalgroup.se/produkter-2/tryck/">Tryck</a></li>
+</ul>
+                            </div>
+                                                    <div class="site-footer__col">
+                                <h6><a href="http://www.emballatormetalgroup.se/vart-erbjudande/">Vårt erbjudande</a></h6>
+<ul>
+<li><a href="http://www.emballatormetalgroup.se/vart-erbjudande/tjanster/">Tjänster</a></li>
+<li><a href="http://www.emballatormetalgroup.se/vart-erbjudande/support/">Support</a></li>
+<li><a href="http://www.emballatormetalgroup.se/vart-erbjudande/124-2/">Produktutveckling</a></li>
+<li><a href="http://www.emballatormetalgroup.se/vart-erbjudande/miljo/">Miljö</a></li>
+<li><a href="http://www.emballatormetalgroup.se/vart-erbjudande/kvalitet/">Kvalitet</a></li>
+<li><a href="http://www.emballatormetalgroup.se/vart-erbjudande/villkor/">Villkor</a></li>
+</ul>
+                            </div>
+                                                    <div class="site-footer__col">
+                                <h6><a href="http://www.emballatormetalgroup.se/om-oss/">Om oss</a></h6>
+<ul>
+<li><a href="http://www.emballatormetalgroup.se/om-oss/emballator/">Emballator</a></li>
+<li><a href="http://www.emballatormetalgroup.se/om-oss/karriar/">Karriär</a></li>
+<li><a href="http://www.emballatormetalgroup.se/om-oss/kundcase-nyakers/">Kundcase &#8211; Nyåkers</a></li>
+</ul>
+<h6><a href="http://www.emballatormetalgroup.se/kontakt/">Kontakt</a></h6>
+<ul>
+<li><a href="http://www.emballatormetalgroup.se/kontakt/personal/">Personal</a></li>
+</ul>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            <div class="site-footer__bottom">
+                <div class="container">
+                    <p><p>© Copyright Emballator Metal Group 2016 | Maskinvägen 14, 523 38 Ulricehamn | +46 (0)321-68 30 00 | mailbox@ulricehamn.emballator.se<br />
+<a href="http://www.emballatormetalgroup.se/integritetspolicy/" rel="noopener">Integritetspolicy</a></p>
+</p>
+                    <ul>
+                                                    <li>
+                                <a href="https://www.linkedin.com/company/emballator-metal-group/" target="_blank">
+                                    <img src="https://www.emballatormetalgroup.se/wp-content/themes/emballator/assets/img/social-icon-in.png">
+                                </a>
+                            </li>
+                                                                                            </ul>
+                                    </div>
+            </div>
+        </footer>
+    </div>
+
+    <script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.emballatormetalgroup.se\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.emballatormetalgroup.se/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.emballatormetalgroup.se/wp-content/themes/emballator/assets/app.min.js' id='app-js'></script>
+<script type='text/javascript' src='https://www.emballatormetalgroup.se/wp-includes/js/wp-embed.min.js?ver=5.5.2' id='wp-embed-js'></script>
+	<script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            //$( document ).ajaxStart(function() {
+            //});
+
+			
+            for (var i = 0; i < document.forms.length; ++i) {
+                var form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="wHepzS_MAq" value="CTx7N4BrZ6" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="DWdTxvXJjpaPBhG" value="6c0HMx9I1vrUqyS" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="-BkWwCvTocfdiqQ" value="1FegOszD[5LjtBy" />'); }
+            }
+
+			
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="wHepzS_MAq" value="CTx7N4BrZ6" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="DWdTxvXJjpaPBhG" value="6c0HMx9I1vrUqyS" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="-BkWwCvTocfdiqQ" value="1FegOszD[5LjtBy" />'); }
+                return true;
+            });
+
+			
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    //console.log(Object.getOwnPropertyNames(data).sort());
+                    //console.log(data.type);
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("wHepzS_MAq", "CTx7N4BrZ6");
+data.data.append("DWdTxvXJjpaPBhG", "6c0HMx9I1vrUqyS");
+data.data.append("-BkWwCvTocfdiqQ", "1FegOszD[5LjtBy");
+                    }
+                    else {
+                        data.data =  data.data + '&wHepzS_MAq=CTx7N4BrZ6&DWdTxvXJjpaPBhG=6c0HMx9I1vrUqyS&-BkWwCvTocfdiqQ=1FegOszD[5LjtBy';
+                    }
+                }
+            });
+
+        });
+	</script>
+	</body>
+</html>
