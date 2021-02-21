@@ -1,28 +1,20 @@
 <?php
 
-function pintar_resultados($url, $httpCode, $lineas_get, $lineas_set, $diff){
+function pintar_resultados($url, $httpCode, $lineas_online, $lineas_local, $activo, $diff ){
+        
+    if($httpCode == '301' || $httpCode == '302' || $httpCode == '200') {$bgcolor_http_status = "green";} else {$bgcolor_http_status = "red";}
+    if($lineas_local  == $lineas_online){$bgcolor_lineas_online = "green";}
+    if($lineas_local !== $lineas_online){$bgcolor_lineas_online = "red";}
+    if($activo == 0) {$bgcolor_lineas_online = "white"; $bgcolor_http_status = "white";}
     
-    if($httpCode == '301' || $httpCode == '302' || $httpCode == '200') {$bgcolorh = "green";}
-    if($lineas_set == $lineas_get){$bgcolorl = "green";} else {$bgcolorl = "red";}
-    
-    if($diff  <  103 && $diff > 100){$bgcolord = "yellow"; $colord = "black";} 
-    if($diff  <  103 && $diff > 107) {$bgcolord = "orange"; $colord = "black";} 
-    if($diff > 107) {$bgcolord = "red"; $colord = "white";}
-    
-    if($diff == 100){$bgcolord = "green"; $colord = "white";} 
-
-    if($diff  >  97 && $diff < 100){$bgcolord = "yellow"; $colord = "black";} 
-    if($diff  >  94 && $diff < 97) {$bgcolord = "orange"; $colord = "black";} 
-    if($diff  < 94) {$bgcolord = "red"; $colord = "white";}
-       
     echo '
             <tr>
-                <td><a href="http://'.$url.'" target="_blank" style="text-decoration:none;">'.$url.'</td>
-                <td align="center" style="background-color:'.$bgcolorh.';color:white;">'.$httpCode.'</td>
-                <td align="center">'.$lineas_set.'</td>
-                <td align="center" style="background-color:'.$bgcolorl.';color:white;">'.$lineas_get.'</td>
-                <td align="center" style="background-color:'.$bgcolord.';color:'.$colord.';">'.$diff.'</td>
+                <td align="center"> '.$activo.' </td>
+                <td> '.$url.' </td>
+                <td align="center" style="background-color:'.$bgcolor_http_status.'; color:white;"> '.$httpCode.' </td>
+                <td align="center"> '.$lineas_local.' </td>
+                <td align="center" style="background-color:'.$bgcolor_lineas_online.';color:white;"> '.$lineas_online.' </td>
+                <td align="center"> '.$diff.' </td>
             </tr>
          '; 
 }
-
