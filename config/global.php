@@ -8,6 +8,9 @@ $basepath = "http://webchecker.intranet.com";
 // Definimos los datos en arrays para cada website
 $webs = array
   (
-    array(1,'mysite.com'),      
+    array(1,'informaticabyte.es'),
+    array(1,'juanjosebaeza.com'),
     array(0,'ejemplo_desactivado.es')
   );
+
+$correo = "micorreo@prueba.es";
