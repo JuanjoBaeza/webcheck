@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Copyright [2021] [Juan José Baeza López]
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -34,3 +35,10 @@ Para recibir por correo automáticamente un informe se puede agregrar al cron un
 Sugerencias, cambios y mejoras son bienvenidos.
 
 Saludos!
+=======
+web-checker
+
+Es una pequeña utilidad que descarga una copia en local del fichero index de un website y lo compara con el archivo que está online. 
+
+Se tienen en cuenta varios parámetros como el Status Code, número de lineas en el archivo, % de diferencia...
+>>>>>>> a0139e189c3683b85a9dcd1c6f3f167e5f3b4afe
