@@ -1,10 +1,8 @@
 <?php
 
-require($_SERVER['DOCUMENT_ROOT'].'/config/global.php');
-
 class Notificar {
     
-    function enviar_correo(){
+    function enviar_correo($correo){
 
     $to      = $correo;
     $subject = "Reporte status websites clientes" ;

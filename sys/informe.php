@@ -6,9 +6,19 @@ require($_SERVER['DOCUMENT_ROOT'].'/sys/notificar.php');
 
 $notifica = new Notificar();
 
-$r    = new HTTPRequest("$basepath");
 $file = 'report.html';
+$reset = '';
+file_put_contents($file, $reset);
 
-file_put_contents($file, $r->DownloadToString());
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $basepath."/verificar.php");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HEADER, true); 
+curl_setopt($ch, CURLOPT_NOBODY, true);
 
-$notifica->enviar_correo();
+$result = curl_exec($ch);
+curl_close($ch);
+
+file_put_contents($file, $result);
+
+$notifica->enviar_correo($correo);
